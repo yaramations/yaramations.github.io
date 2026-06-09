@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(162, 239, 230);
+}
+h1 {
+  color: rgb(234, 27, 58);
+}
+p {
+  color: rgb(240, 22, 84);
+}
+
+@navbar{
+    font-size: 15px;
+    text-align: center
+}
