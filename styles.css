@@ -3,12 +3,14 @@ body {
 }
 h1 {
   color: rgb(234, 27, 58);
+  font-family: sans-serif;
+  
 }
 p {
   color: rgb(240, 22, 84);
 }
 
-@navbar{
+.navbar{
     font-size: 15px;
     text-align: center
 }
