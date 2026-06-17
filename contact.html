@@ -3,13 +3,34 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width-device-width, initial-scale = 1">
+        <style>
+            *{
+                padding: 0;
+                margin: 0;
+                box-sizing: border-box;
+            }
+            p {
+                font-family: "Starborn";
+                background: linear-gradient( #B7E8DF, #64938B);
+            }
+            .contact{
+                height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content:space-evenly;
+            }
+        </style>
     </head>
 
 <body>
 
     <div class="contact">
-        <form action="" class="left-contact">
+        <form action="" class="c-left-contact">
             <h2>Contact Me!</h2>
+            <input type="text" name="name" placeholder="Name" class="c-input">
+            <input type="email" name="email" placeholder="Email" class="c-input">
+            <textarea name="message" placeholder="Your Message" class="c-input"></textarea>
+            <button type="submit"> Submit <img src=""> </button>
         </form>
 
     </div>
