@@ -8,11 +8,13 @@
                 padding: 0;
                 margin: 0;
                 box-sizing: border-box;
+                background: linear-gradient(#B7E8DF, #64938B)
             }
-            p {
-                font-family: "Starborn";
-                background: linear-gradient( #B7E8DF, #64938B);
+            @font-face{
+                font-family: 'Starborn';
+                src: url(fonts/Starborn.ttf);
             }
+
             .contact{
                 height: 100vh;
                 display: flex;
@@ -26,7 +28,6 @@
 
     <div class="contact">
         <form action="" class="c-left-contact">
-            <h2>Contact Me!</h2>
             <input type="text" name="name" placeholder="Name" class="c-input">
             <input type="email" name="email" placeholder="Email" class="c-input">
             <textarea name="message" placeholder="Your Message" class="c-input"></textarea>
@@ -34,8 +35,6 @@
         </form>
 
     </div>
-
-
 
 </body>
 
