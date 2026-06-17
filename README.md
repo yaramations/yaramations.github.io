@@ -22,3 +22,4 @@ This project is available under the MIT liscense. Please feel free to reference 
 ## Asset Credits
 ### Fonts
 - Starborn: https://www.dafont.com/starborn.font
+- Super Magical: https://www.dafont.com/super-magical.font?text=magica
