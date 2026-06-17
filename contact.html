@@ -26,14 +26,26 @@
                 align-items: center;
                 justify-content:space-evenly;
             }
+            .c-left{
+                display:flex;
+                flex-direction: column;
+                align-items: start;
+                gap: 20px;
+            }
+
+            #contactheader {
+                font-size: large;
+                font-weight: 700;
+                margin-bottom: 5px;
+            }
         </style>
     </head>
 
 <body>
 
     <div class="contact">
-        <h2 style="font-family: Starborn;"> Contact Me!</h2>
-        <form action="" class="c-left-contact">
+        <h2 style="font-family: Starborn;" id="contactheader"> Contact Me!</h2>
+        <form action="" class="c-left">
             <input type="text" name="name" placeholder="Name" class="c-input">
             <input type="email" name="email" placeholder="Email" class="c-input">
             <textarea name="message" placeholder="Your Message" class="c-input"></textarea>
