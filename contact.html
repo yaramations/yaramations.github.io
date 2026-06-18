@@ -11,7 +11,7 @@
             }
             body{
             background-color: rgb(139, 255, 241) ;
-            background-color: linear-gradient(#B7E8DF, #64938B)
+            background-image: url(/yaramations.github.io/Images/Backgrounds/Contactbg.webp);
             }
             @font-face{
                 font-family: 'Starborn';
@@ -19,7 +19,7 @@
             }
 
             .contact{
-                height: 100vh;
+                height:-200vh;
                 display: flex;
                 align-items: center;
                 justify-content:space-evenly;
@@ -29,28 +29,62 @@
                 flex-direction: column;
                 align-items: start;
                 gap: 20px;
+
+                background-color: aliceblue;
+                border-radius:20px;
+                border: 40px solid azure;
             }
 
             #contactheader {
-                font-size: large;
+                font-size: 50px;
                 font-weight: 700;
-                margin-bottom: 5px;
+                margin-bottom: 0px;
             }
             textarea { resize: none; }
+
+            .btn{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 10vh;
+                padding: 10px 20px;
+            }
+            .navbar{
+                padding:20px;
+                text-align: center;
+                background-color: rgb(24, 156, 112);
+                background-image: linear-gradient(to right, rgb(0, 255, 238) , rgb(255, 145, 224));
+            }
         </style>
     </head>
 
 <body>
 
+<div class="navbar">
+
+<button> </button><a class="active" href="#home">Home</a>
+<a href="#news">News</a>
+<a href="#contact">Contact</a> 
+<a href="#about">About Me!</a>
+
+</div>
+<br>
     <div class="contact">
-        <h2 style="font-family: Starborn;" id="contactheader"> Contact Me!</h2>
+        <div class="c-right">
+            <img src="" alt="Character on Phone">
+        </div>
         <form action="" class="c-left">
+            <h1 style="font-family: Starborn;" id="contactheader"> Contact Me!</h1>
             <input type="text" name="name" placeholder="Name" class="c-input">
             <input type="email" name="email" placeholder="Email" class="c-input">
             <textarea name="message" placeholder="Your Message" class="c-input" rows="5" cols="33" ></textarea>
             <button type="submit"> Submit <img src=""> </button>
         </form>
 
+    </div>
+
+    <div class="btn" >
+        <button><a href="/yaramations.github.io/portfolioaccess.html"><img alt="Back to Portfolio"></a></button>
     </div>
 
 </body>
