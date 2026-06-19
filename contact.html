@@ -4,20 +4,30 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width-device-width, initial-scale = 1">
         <style>
+            @font-face{
+                font-family: 'Starborn';
+                src: url(/yaramations.github.io/fonts/starborn/Starborn.ttf);
+            }
+            @font-face{
+                font-family: 'Papernotes';
+                src: url(/yaramations.github.io/fonts/papernotes/Papernotes.otf)
+            }
+            @font-face{
+                font-family: "SuperMagical";
+                src: url(/yaramations.github.io/fonts/Super\ Magical.ttf)
+            }
+
+
+
             *{
                 padding: 0;
                 margin: 0;
                 box-sizing: border-box; 
             }
             body{
-            background-color: rgb(139, 255, 241) ;
+            background-color: rgb(255, 201, 244) ;
             background-image: url(/yaramations.github.io/Images/Backgrounds/Contactbg.webp);
             }
-            @font-face{
-                font-family: 'Starborn';
-                src: url(/yaramations.github.io/fonts/starborn/Starborn.ttf);
-            }
-
             .contact{
                 height:-200vh;
                 display: flex;
@@ -32,13 +42,15 @@
 
                 background-color: aliceblue;
                 border-radius:20px;
-                border: 40px solid azure;
+                border: 40px solid aliceblue;
+                font-family: Papernotes;
             }
 
             #contactheader {
                 font-size: 50px;
                 font-weight: 700;
                 margin-bottom: 0px;
+                color: rgb(109, 23, 39);
             }
             textarea { resize: none; }
 
@@ -48,12 +60,14 @@
                 align-items: center;
                 height: 10vh;
                 padding: 10px 20px;
+                font-family: Papernotes;
             }
             .navbar{
                 padding:20px;
                 text-align: center;
                 background-color: rgb(24, 156, 112);
                 background-image: linear-gradient(to right, rgb(0, 255, 238) , rgb(255, 145, 224));
+                font-family: SuperMagical;
             }
         </style>
     </head>

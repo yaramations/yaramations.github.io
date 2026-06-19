@@ -23,3 +23,8 @@ This project is available under the MIT liscense. Please feel free to reference 
 ### Fonts
 - Starborn: https://www.dafont.com/starborn.font
 - Super Magical: https://www.dafont.com/super-magical.font?text=magica
+- Ice Cream: https://www.dafont.com/ice-cream-2.font
+- Winkle Font: https://www.dafont.com/winkle.font
+- Love: https://www.dafont.com/love-3.font
+- Miracle Days: https://www.dafont.com/miracle-days.font
+- Paper Notes: https://www.dafont.com/papernotes.font
