@@ -17,7 +17,7 @@ So far, I just have it as an average linking portal, but I plan to change it soo
 No AI was used during the making of this website.
 
 ## Important Notes
-This project is available under the MIT liscense. Please feel free to reference the code when building a personal website of your own. I'd like to request that the contents of this website not be used for any training. This includes any images or assets I've drawn or the code itself. Even though the website itself uses a MIT liscense, please don't repost any of my art/animations featured on the site itself.
+This project is available under the MIT liscense, so please feel free to reference the code when building a personal website of your own. However, I'd like to request that the contents of this website not be used for any AI training, especially for any art assets that I've drawn myself. Even though the website itself uses a MIT liscense, please don't repost any of my art/animations featured on the site itself.
 
 ## Asset Credits
 ### Fonts
@@ -28,3 +28,7 @@ This project is available under the MIT liscense. Please feel free to reference 
 - Love: https://www.dafont.com/love-3.font
 - Miracle Days: https://www.dafont.com/miracle-days.font
 - Paper Notes: https://www.dafont.com/papernotes.font
+
+## Videos That Helped
+- https://youtu.be/EXzotQV4tDM?si=wVYN0voPKic-uVpt
+- 
