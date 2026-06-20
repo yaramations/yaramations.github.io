@@ -35,13 +35,11 @@
         background:#8ffdff;
         border-radius: 8px;
         display: flex;
-        justify-content: center;
+        justify-content: left;
         align-items: center;
     }
 
     nav a{
-        position: relative;
-        display: inline-block;
         font-family: "SuperMagical";
         font-size: 1em;
         font-weight: 1000;
@@ -49,6 +47,13 @@
         text-decoration: none;
         padding: 0 23px;
         z-index: 1;
+    }
+
+    #logo{
+        display: flex;
+        align-items: center;
+        justify-content: right;
+
     }
     
     nav span {
@@ -86,12 +91,12 @@
 
 <body>
 <nav>
-<img src="" alt="MY LOGO IN THE CORNER">
 <a href="/yaramations.github.io/index.html">Home</a>
 <a href="/yaramations.github.io/contact.html">Contact</a> 
 <a href="/yaramations.github.io/aboutme.html">About Me</a>
 <a href="#"> Portfolio </a>
 <a href="#"> Thing 5</a>
+<img id="logo" src="" alt="MYLOGOHERE">
 <span></span>
 </nav>
 
