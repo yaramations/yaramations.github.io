@@ -55,8 +55,9 @@ body {
 }
 
 #Onphone{
-    width: 100%;
     scale: auto;
+    width:450px;
+    height: auto;
 }
 
 #contactheader {

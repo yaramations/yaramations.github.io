@@ -29,6 +29,8 @@ This project is available under the MIT liscense, so please feel free to referen
 - Miracle Days: https://www.dafont.com/miracle-days.font
 - Paper Notes: https://www.dafont.com/papernotes.font
 
-## Videos That Helped
+## Things That Helped
 - https://youtu.be/EXzotQV4tDM?si=wVYN0voPKic-uVpt
-- 
+- https://youtu.be/BYUWr5QrZLU?si=a8euFq_0MDCCpa-l
+- I took a lot of inspo from: https://www.jackiedroujko.com/about?srsltid=AfmBOooluayJIRn0MsyC6j714h1WC-zsETfQySNzeYqKqTQ2-T1wlJkX
+- Also took some inspo from: https://www.sharyap.com
