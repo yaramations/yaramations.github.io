@@ -1,87 +1,134 @@
-body {
-  background-color: rgb(162, 239, 230);
+
+/* FOR EVERYTHING */
+p{
+    font-family: Papernotes;
 }
-p {
-  color: rgb(240, 22, 84);
+h1{
+    font-family: Starborn;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    padding: 10px 10px;
+    background-color: #68062c;
+    color:rgb(239, 248, 254)ff;
+    font-family: Papernotes;
 }
 
-.navbar{
-    font-size: 15px;
-    text-align: center
+/* Everything here pertains to index.html*/
+#introblock {
+    max-width: 1200px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #cd80b7;
+    border-radius: 20px;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
+/* This is code pertaining to the contact me page!*/
+.contact{
+    height:-200vh;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    }
+.c-left{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+
+    background-color: aliceblue;
+    border-radius:20px;
+    border: 40px solid aliceblue;
+    font-family: Papernotes;
+    }
+
+#contactheader {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    color: rgb(109, 23, 39);
+    }
+textarea { resize: none; }
+
+/* NAVIGATION BAR STYLING! */
+    .navigation{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: SuperMagical;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    nav {
+        position: relative;
+        width: 1080px;
+        height: 50px;
+        background:#8ffdff;
+        border-radius: 8px;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    }
+
+    nav a{
+        font-size: 1em;
+        font-weight: 1000;
+        color: #68062c;
+        text-decoration: none;
+        padding: 0 23px;
+        z-index: 1;
+    }
+
+    nav span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 95px;
+        height: 100%;
+        background: linear-gradient(45deg, #f21e8f, #cd80b7);
+        border-radius: 8px;
+        transition: 0.5s;
+    }
+    nav a:nth-child(1):hover~span{
+        left: 0;
+    }
+    nav a:nth-child(2):hover~span{
+        left:90px
+    }
+    nav a:nth-child(3):hover~span{
+        left: 190px;
+    }
+    nav a:nth-child(4):hover~span{
+        left: 300px;
+    }
+
+/*Fonts*/
+@font-face {
+    font-family: Supermagical;
+    src: url(fonts/Super\ Magical.ttf);
 }
-
-@font-face  {
-    font-family: 'Starborn';
-    src: url(/yaramations.github.io/fonts/starborn/Starborn.ttf);
-  }
-
-            @font-face{
-                font-family: 'Starborn';
-                src: url(/yaramations.github.io/fonts/starborn/Starborn.ttf);
-            }
-            @font-face{
-                font-family: 'Papernotes';
-                src: url(/yaramations.github.io/fonts/papernotes/Papernotes.otf)
-            }
-            @font-face{
-                font-family: "SuperMagical";
-                src: url(/yaramations.github.io/fonts/Super\ Magical.ttf)
-            }
-
-
-
-            *{
-                padding: 0;
-                margin: 0;
-                box-sizing: border-box; 
-            }
-            body{
-            background-color: rgb(255, 201, 244) ;
-            background-image: url(/yaramations.github.io/Images/Backgrounds/Contactbg.webp);
-            }
-            .contact{
-                height:-200vh;
-                display: flex;
-                align-items: center;
-                justify-content:space-evenly;
-            }
-            .c-left{
-                display:flex;
-                flex-direction: column;
-                align-items: start;
-                gap: 20px;
-
-                background-color: aliceblue;
-                border-radius:20px;
-                border: 40px solid aliceblue;
-                font-family: Papernotes;
-            }
-
-            #contactheader {
-                font-size: 50px;
-                font-weight: 700;
-                margin-bottom: 0px;
-                color: rgb(109, 23, 39);
-            }
-            textarea { resize: none; }
-
-            .btn{
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                height: 10vh;
-                padding: 10px 20px;
-                font-family: Papernotes;
-            }
-            .navbar{
-                padding:20px;
-                text-align: center;
-                background-color: rgb(24, 156, 112);
-                background-image: linear-gradient(to right, rgb(0, 255, 238) , rgb(255, 145, 224));
-                font-family: SuperMagical;
-            }
+@font-face {
+    font-family: Icecream;
+    src: url(fonts/Ice\ Cream.otf);
+}
+@font-face {
+    font-family: Love;
+    src: url(fonts/Love.ttf);
+}
+@font-face {
+    font-family: Miracledays;
+    src: url(fonts/miracle_days/Miracle\ Days.otf);
+}
+@font-face{
+    font-family: Papernotes;
+    src: url(fonts/papernotes/Papernotes.otf);
+}
+@font-face {
+    font-family: Starborn;
+    src: url(fonts/starborn/Starborn.otf);
+}
