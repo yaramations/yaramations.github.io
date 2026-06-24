@@ -12,7 +12,7 @@ button{
     align-items: center;
     height: 10vh;
     padding: 10px 10px;
-    background-color: #68062c;
+    background-color: #962953;
     color:rgb(239, 248, 254);
     font-family: Papernotes;
 }
@@ -63,20 +63,9 @@ body {
     font-size: 50px;
     font-weight: 700;
     margin-bottom: 0px;
-    color: rgb(109, 23, 39);
+    color: #962953;
     }
 textarea { resize: none; }
-
-.btn:link {
-  color: rgb(255, 255, 255);
-  background-color: transparent;
-  text-decoration: none;
-}
-.btn:visited {
-  color: rgb(155, 220, 251);
-  background-color: transparent;
-  text-decoration: none;
-}
 
 /* NAVIGATION BAR STYLING! */
     .navigation{
