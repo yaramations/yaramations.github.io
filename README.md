@@ -4,13 +4,10 @@ try something new and code my own website. Feedback is always appreciated!
 
 # List of Pages and Their Functions
 ## Home Page
+This page just gives the viewer an overview of who I am.
 
 ## Linkpage
-Part of what I wanted out of a personal website was including my own version of linktr.ee, but with my own twist. I wanted links to my other social media easily accessible, but in a way that looked cool.
-Some ideas I considered were
-- Phone that let's you "dial up" links: chose not to follow through because it seemed annoying
-- Tamogotchi interface: I have plans to use this somewhere else now
-So far, I just have it as an average linking portal, but I plan to change it soon
+Part of what I wanted out of a personal website was including my own version of linktr.ee, but with my own twist. I wanted links to my other social media easily accessible, but in a way that looked cool. Also, I don't want to pay a subscription to use linktree, so I made it myself.
 
 # Credits and Statements
 ## Statement About Artificial Intelligence
