@@ -73,7 +73,7 @@ textarea { resize: none; }
     text-align: center;
 }
 
-.centeralign{
+#centeralign{
     display: flex;
     justify-items: center;
 
