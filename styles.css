@@ -18,7 +18,7 @@ button{
 }
 
 body {
-    background:#ffdbf7;
+    background:#b9f5f6;
 }
 
 /* Everything here pertains to index.html*/
@@ -67,6 +67,39 @@ body {
     }
 textarea { resize: none; }
 
+/* About Me Page! */
+.faq-icons{
+    margin: 0 auto;
+    background:#cd80b7;
+    padding: 40px;
+    border-radius: 20px;
+    color: aqua;
+    min-width: 800px;
+    
+    display: table-cell;
+    vertical-align: middle
+
+}
+
+.faq-icons h2{
+    text-align: center;
+    margin-bottom: 25px;
+    color:#68062c;
+}
+
+details{
+    background: rgba(255,255,255, 0.05);
+    border-radius: 20px;
+    margin: 15px;
+    padding: 15px 20px;
+    border-left: 5px solid #68062c;
+}
+
+summary{
+    font-weight: 600;
+    cursor: pointer;
+}
+
 /* NAVIGATION BAR STYLING! */
     .navigation{
         margin: 0;
@@ -82,7 +115,7 @@ textarea { resize: none; }
         position: relative;
         width: 1080px;
         height: 50px;
-        background:#8ffdff;
+        background:#6fbcbd;
         border-radius: 8px;
         display: flex;
         justify-content: left;
