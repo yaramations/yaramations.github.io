@@ -68,6 +68,17 @@ body {
 textarea { resize: none; }
 
 /* About Me Page! */
+#aboutmeheader{
+    font-family: Starborn;
+    text-align: center;
+}
+
+.centralign{
+    display: flex;
+    justify-items: center;
+
+}
+
 .faq-icons{
     margin: 0 auto;
     background:#cd80b7;
@@ -85,6 +96,7 @@ textarea { resize: none; }
     text-align: center;
     margin-bottom: 25px;
     color:#68062c;
+    font-family: Supermagical;
 }
 
 details{
@@ -98,6 +110,7 @@ details{
 summary{
     font-weight: 600;
     cursor: pointer;
+    font-family: Love;
 }
 
 /* NAVIGATION BAR STYLING! */
