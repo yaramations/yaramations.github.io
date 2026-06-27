@@ -2,39 +2,82 @@
 <html>
     <head>
         <style>
-            .clickylinks {
-                font-family: 'Courier New', Courier, monospace;
+            body{
+                background-image: url(Images/Backgrounds/Contactbg.webp);
+                background-color: #09c8d2;
             }
+            .clickylinks {
+                font-family: Miracles;
+                background-color: #09c8d200;
+                border-radius: 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+                font-family: Starborn;
+                text-align:center;
+            }
+            p{
+                font-family: Miracles;
+                text-align: center;
+            }
+
+            img{
+                display: block;
+                border-radius: 90px;
+                margin: auto;
+            }
+
+            ul{
+                list-style-type: none;
+                display: flex;
+                flex-direction: column-reverse;
+                align-items: center;
+            }
+
             button {
                 color: #09c8d2;
                 padding: 20px;
-                font-size: 50px;
+                font-size: 30px;
+                font-family: Miracles;
+                box-shadow: 5px 5px 10px 2px rgba(0, 128, 255, 0.2);
 
                 text-align:center;
-                text-shadow: 1px 1px 1px rgb(255, 16, 120);
+                text-shadow: 1px 1px 1px rgb(255, 16, 191);
 
-                background-color: #e5cf8f;
+                background-color: #eea6cc;
+                border-radius: 20px;
                 /* background-image: ; */
 
                 box-shadow: inset 2px 2px 2px rgb(255,255,255 / 0.5),
                 inset -2px -2px 2px rgb (0 0 0 / 0.5);
 
+                margin: 5px;
             }
 
+            @font-face {
+                font-family: Starborn;
+                src: url(fonts/starborn/Starborn.ttf);
+            }
+            @font-face {
+                font-family: Miracles;
+                src: url(fonts/miracle_days/Miracle\ Days.otf);
+            }
         </style>
 
     </head>
 
     <body>
-        <img src="" alt="Profile picture detailing brown haired girl in anime avatar">
-        <h1>Yaramations!</h1>
         <div class="clickylinks">
+        <img width="100px" height="auto" src="Images/pfp.png" alt="Profile picture detailing brown haired girl in anime avatar">
+        <h1>Yaramations!</h1>
+        <p>Here are links to all of my social media!</p>
         <ul>
             <li><button> <a href="https://www.youtube.com/@YarnMakesStuff" target="_blank" >Youtube</a> </button></li>
-            <li><button> <a href="" target="_blank"> Instagram </a></button></li>
+            <li><button> <a href="https://www.instagram.com/yaramations/" target="_blank"> Instagram </a></button></li>
             <li><button> <a href="https://github.com/yaramations" target="_blank"> Github </a> </button></li>
-            <li><button> <a href="" target="_blank"> Artfight </a></button></li>
-            <li><button><a target="_blank"> Pixiv </a></button></li>
+            <li><button> <a href="https://artfight.net/~Yaramations" target="_blank"> Artfight </a></button></li>
+            <li><button><a href="https://yaramations.github.io/" target="_blank"> Site Homepage </a></button></li>
 
         </ul>
         </div>

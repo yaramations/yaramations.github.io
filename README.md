@@ -31,6 +31,8 @@ This project is available under the MIT liscense, so please feel free to referen
 
 ## Things That Helped
 - https://youtu.be/EXzotQV4tDM?si=wVYN0voPKic-uVpt
-- https://youtu.be/BYUWr5QrZLU?si=a8euFq_0MDCCpa-l
+- https://youtu.be/iYWdtO3eT1E?si=H3nJQeTiNFcdEeci
+- https://formsubmit.co/
+- https://youtu.be/ioa8T4tA4zg?si=o1jSQPxd8r9FnPuF
 - I took a lot of inspo from: https://www.jackiedroujko.com/about?srsltid=AfmBOooluayJIRn0MsyC6j714h1WC-zsETfQySNzeYqKqTQ2-T1wlJkX
 - Also took some inspo from: https://www.sharyap.com
