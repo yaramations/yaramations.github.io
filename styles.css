@@ -71,6 +71,34 @@ textarea { resize: none; }
 #aboutmeheader{
     font-family: Starborn;
     text-align: center;
+    color:#68062c;
+}
+
+.titlecard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:row;
+  padding: 10px;
+  background-color:#cd80b7;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  max-width: 860px;
+
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.titlecard img{
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.titlecard p {
+    margin-left: 1rem;
+    color:#68062c;
+    text-align: left;
 }
 
 #centeralign{

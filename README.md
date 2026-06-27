@@ -33,5 +33,6 @@ This project is available under the MIT liscense, so please feel free to referen
 - https://youtu.be/ioa8T4tA4zg?si=o1jSQPxd8r9FnPuF
 - https://www.joshwcomeau.com/css/center-a-div/
 - https://www.youtube.com/watch?v=arwKWhDL60M
+- https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/
 - I took a lot of inspo from: https://www.jackiedroujko.com/about?srsltid=AfmBOooluayJIRn0MsyC6j714h1WC-zsETfQySNzeYqKqTQ2-T1wlJkX
 - Also took some inspo from: https://www.sharyap.com
