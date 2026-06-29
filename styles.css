@@ -2,9 +2,11 @@
 /* FOR EVERYTHING */
 p{
     font-family: Papernotes;
+    color: #68062c;
 }
 h1{
     font-family: Starborn;
+    color: #68062c;
 }
 button{
     display: flex;
@@ -21,6 +23,12 @@ body {
     background:#b9f5f6;
 }
 
+iframe{
+    width: 200px;
+    height: 500px;
+    border-radius: 20px;
+}
+
 /* Everything here pertains to index.html*/
 #introblock {
     max-width: 1200px;
@@ -28,6 +36,8 @@ body {
     padding: 20px;
     background-color: #cd80b7;
     border-radius: 20px;
+    min-width: fit-content;
+    max-width: 800px;
 }
 
 /* This is code pertaining to the contact me page!*/
@@ -43,9 +53,9 @@ body {
     align-items: start;
     gap: 20px;
 
-    background-color: aliceblue;
+    background-color: #cd80b7;
     border-radius:20px;
-    border: 40px solid aliceblue;
+    border: 40px solid #cd80b7;
     font-family: Papernotes;
     }
 
@@ -84,6 +94,7 @@ textarea { resize: none; }
   border-radius: 20px;
   margin-bottom: 1rem;
   max-width: 860px;
+  min-width: fit-content;
 
   margin: 0 auto;
   margin-bottom: 10px;
@@ -114,6 +125,7 @@ textarea { resize: none; }
     border-radius: 20px;
     color: aqua;
     min-width: 800px;
+    max-width: 800px;
     
     display: table-cell;
     vertical-align: middle
@@ -139,6 +151,48 @@ summary{
     font-weight: 600;
     cursor: pointer;
     font-family: Love;
+}
+
+/*Portfolio Gallery*/
+
+.galleryhead{
+    font-family: Love;
+    text-align: center;
+    color:#68062c;
+}
+
+#mywork{
+    text-align: center;
+}
+
+.gallerymaster{
+    display: flex;
+    flex-direction: row;
+}
+
+.gallery{
+    display: inline-block;
+    margin: 15px;
+    max-width: fit-content;
+}
+.gallery .description{
+    padding: 10px;
+    text-align: center;
+}
+.galler:hover{
+    border: 1px solid hsl(0, 0%, 20%);
+}
+.gallery img{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+
+}
+
+#gallery2{
+    width: 200%;
+    height: auto;
 }
 
 /* NAVIGATION BAR STYLING! */

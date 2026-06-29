@@ -9,6 +9,15 @@ This page just gives the viewer an overview of who I am.
 ## Linkpage
 Part of what I wanted out of a personal website was including my own version of linktr.ee, but with my own twist. I wanted links to my other social media easily accessible, but in a way that looked cool. Also, I don't want to pay a subscription to use linktree, so I made it myself.
 
+## About me
+Gives the viewer a basic understanding of who I am. It links my experiences and also has some basic FAQs about my work and services.
+
+## Contact me
+Provides the viewer with a form to email me.
+
+## Portfolio
+Showcases some of my work!
+
 # Credits and Statements
 ## Statement About Artificial Intelligence
 No AI was used during the making of this website.
@@ -34,5 +43,8 @@ This project is available under the MIT liscense, so please feel free to referen
 - https://www.joshwcomeau.com/css/center-a-div/
 - https://www.youtube.com/watch?v=arwKWhDL60M
 - https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/
+- https://www.youtube.com/watch?v=uu0lOX6Ot3s
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - I took a lot of inspo from: https://www.jackiedroujko.com/about?srsltid=AfmBOooluayJIRn0MsyC6j714h1WC-zsETfQySNzeYqKqTQ2-T1wlJkX
+- https://www.w3schools.com/
 - Also took some inspo from: https://www.sharyap.com
