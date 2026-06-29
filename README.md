@@ -45,6 +45,7 @@ This project is available under the MIT liscense, so please feel free to referen
 - https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/
 - https://www.youtube.com/watch?v=uu0lOX6Ot3s
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://youtu.be/uu0lOX6Ot3s?si=dIx718QJr0Nk_k2Q
 - I took a lot of inspo from: https://www.jackiedroujko.com/about?srsltid=AfmBOooluayJIRn0MsyC6j714h1WC-zsETfQySNzeYqKqTQ2-T1wlJkX
 - https://www.w3schools.com/
 - Also took some inspo from: https://www.sharyap.com

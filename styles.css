@@ -31,7 +31,6 @@ iframe{
 
 /* Everything here pertains to index.html*/
 #introblock {
-    max-width: 1200px;
     margin: 10px auto;
     padding: 20px;
     background-color: #cd80b7;
@@ -94,7 +93,6 @@ textarea { resize: none; }
   border-radius: 20px;
   margin-bottom: 1rem;
   max-width: 860px;
-  min-width: fit-content;
 
   margin: 0 auto;
   margin-bottom: 10px;
