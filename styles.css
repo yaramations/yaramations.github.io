@@ -35,7 +35,6 @@ iframe{
     padding: 20px;
     background-color: #cd80b7;
     border-radius: 20px;
-    min-width: fit-content;
     max-width: 800px;
 }
 
